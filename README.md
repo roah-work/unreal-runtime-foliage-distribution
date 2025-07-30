@@ -2,6 +2,17 @@
 
 A simple Unreal Engine plugin to procedurally scatter Static Mesh foliage instances (bushes and trees) at runtime or in editor using Hierarchical Instanced Static Meshes (HISM), with optional heightfield and mask textures.
 
+<table>
+  <tr>
+    <td><img src="Docs/Screenshots/HighresScreenshot00002+(2)_resized.png" width="400"/></td>
+    <td><img src="Docs/Screenshots/HighresScreenshot00000(2)_resized.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Docs/Screenshots/HighresScreenshot00002+(2)_resized.png" width="400"/></td>
+    <td><img src="Docs/Screenshots/HighresScreenshot00001.png" width="400"/></td>
+  </tr>
+</table>
+
 ---
 
 ## Overview
@@ -18,6 +29,16 @@ This plugin provides an actor `ARR_FoliageScatter` that:
 
 ---
 
+<table>
+  <tr>
+    <td><img src="Docs/Screenshots/HighresScreenshot00015_resized.png" width="400"/></td>
+    <td><img src="Docs/Screenshots/HighresScreenshot00004_resized.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Docs/Screenshots/HighresScreenshot00000.png" width="400"/></td>
+    <td><img src="Docs/Screenshots/HighresScreenshot00000+(2)_resized.png" width="400"/></td>
+  </tr>
+</table>
 ## Structures & Components
 
 ### `F_RR_FoliageAssets`
