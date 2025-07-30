@@ -1,3 +1,6 @@
+## 2025 Update: 
+Project files may be out of date. Will be updated to 5.5 and with improvements soon. Although, this tool is made redundant by PCG, I might return to this project to implement any features as a practice.
+
 # Unreal Engine Runtime Foliage Scatter Plugin
 
 A simple Unreal Engine plugin to procedurally scatter Static Mesh foliage instances (bushes and trees) at runtime or in editor using Hierarchical Instanced Static Meshes (HISM), with optional heightfield and mask textures.
@@ -140,6 +143,3 @@ Possible future expansions:
 | Masking                   | Binary placement mask via foliage texture                     |
 | Spatial partitioning      | `GridMap` based on `Cell_Size`, efficient overlap testing     |
 | Editor integration        | `OnConstruction` logic and `Regenerate()` for manual refresh  |
-
-## 2025 Update: 
-Project files may be out of date. Will be updated to 5.5 and with improvements soon. 
