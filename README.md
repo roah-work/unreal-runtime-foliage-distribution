@@ -140,3 +140,6 @@ Possible future expansions:
 | Masking                   | Binary placement mask via foliage texture                     |
 | Spatial partitioning      | `GridMap` based on `Cell_Size`, efficient overlap testing     |
 | Editor integration        | `OnConstruction` logic and `Regenerate()` for manual refresh  |
+
+## 2025 Update: 
+Project may be out of date. Will be updated to 5.5 and with improvements soon. 
