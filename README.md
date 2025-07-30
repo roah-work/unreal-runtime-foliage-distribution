@@ -142,4 +142,4 @@ Possible future expansions:
 | Editor integration        | `OnConstruction` logic and `Regenerate()` for manual refresh  |
 
 ## 2025 Update: 
-Project may be out of date. Will be updated to 5.5 and with improvements soon. 
+Project files may be out of date. Will be updated to 5.5 and with improvements soon. 
