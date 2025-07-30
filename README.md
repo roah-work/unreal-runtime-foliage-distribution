@@ -122,9 +122,7 @@ The actor will scatter foliage in editor immediately and display the result.
 
 ---
 
-## Extension Ideas
-
-Possible future expansions:
+## Possible future expansions:
 
 - Support varied mesh scales per asset
 - Different exclusion rules per asset type
@@ -132,14 +130,3 @@ Possible future expansions:
 - GPU-accelerated placement
 
 ---
-
-## Summary Table
-
-| Feature                   | Description                                                   |
-|---------------------------|---------------------------------------------------------------|
-| Mesh types                | Bushes and trees (Category separating behavior)               |
-| Overlap prevention        | Using radii + `interFoliage_dist` and grid-based checks       |
-| Heightfield Z-adjustment  | Reads from texture to elevate instances                       |
-| Masking                   | Binary placement mask via foliage texture                     |
-| Spatial partitioning      | `GridMap` based on `Cell_Size`, efficient overlap testing     |
-| Editor integration        | `OnConstruction` logic and `Regenerate()` for manual refresh  |
