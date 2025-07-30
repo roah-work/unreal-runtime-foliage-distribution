@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\private\\runtimefoliagescattereditormodecommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalprojects\\experiments\\intermediate\\build\\win64\\x64\\experimentseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimefoliagescatter\\definitions.runtimefoliagescatter.h",
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\public\\runtimefoliagescattereditormodecommands.h",
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\public\\runtimefoliagescattereditormode.h",
+            "d:\\programfiles\\ue\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
+            "d:\\programfiles\\ue\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\uedmode.generated.h",
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimefoliagescatter\\uht\\runtimefoliagescattereditormode.generated.h",
+            "d:\\programfiles\\ue\\ue_5.5\\engine\\source\\editor\\editorstyle\\public\\editorstyleset.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

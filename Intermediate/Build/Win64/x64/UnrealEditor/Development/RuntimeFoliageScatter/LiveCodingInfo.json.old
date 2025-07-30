@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RuntimeFoliageScatter.cpp.obj": [
+			"RuntimeFoliageScatter.init.gen.cpp.obj",
+			"RuntimeFoliageScatterEditorMode.gen.cpp.obj",
+			"RuntimeFoliageScatterInteractiveTool.gen.cpp.obj",
+			"RuntimeFoliageScatterSimpleTool.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RuntimeFoliageScatterEditorMode.cpp.obj",
+			"RuntimeFoliageScatterEditorModeCommands.cpp.obj",
+			"RuntimeFoliageScatterEditorModeToolkit.cpp.obj",
+			"RuntimeFoliageScatterModule.cpp.obj",
+			"RuntimeFoliageScatterInteractiveTool.cpp.obj",
+			"RuntimeFoliageScatterSimpleTool.cpp.obj"
+		]
+	}
+}

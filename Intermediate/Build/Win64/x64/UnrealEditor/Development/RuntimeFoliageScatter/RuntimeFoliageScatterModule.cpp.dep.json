@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\private\\runtimefoliagescattermodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalprojects\\experiments\\intermediate\\build\\win64\\x64\\experimentseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimefoliagescatter\\definitions.runtimefoliagescatter.h",
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\public\\runtimefoliagescattermodule.h",
+            "d:\\personalprojects\\experiments\\plugins\\runtimefoliagescatter\\source\\runtimefoliagescatter\\public\\runtimefoliagescattereditormodecommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
