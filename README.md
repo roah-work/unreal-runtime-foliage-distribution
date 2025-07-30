@@ -1,5 +1,5 @@
 ## 2025 Update: 
-Project files may be out of date. Will be updated to 5.5 and with improvements soon. Although, this tool is made redundant by PCG, I might return to this project to implement any features as a practice.
+Project files may be out of date. Will be updated to 5.5 and with improvements soon. Although, this tool is made redundant by PCG, I might return to this project to experiment features.
 
 # Unreal Engine Runtime Foliage Scatter Plugin
 
